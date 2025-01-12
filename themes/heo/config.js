@@ -22,8 +22,8 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'zhmetosr.cn',
   HEO_HERO_TITLE_4: 'zhmetosr',
-  HEO_HERO_TITLE_5: '主站:zhmetosr',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_5: '主站:zhmetosr.cn 子站:yangyuchen.icu',
+  HEO_HERO_TITLE_LINK: 'https://github.com/zhmetosr',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
