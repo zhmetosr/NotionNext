@@ -9,7 +9,7 @@ const CONFIG = {
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
     { title: '欢迎来到我的博客', url: 'https://github.com/zhmetosr' },
-    { title: '访问文档中心获取更多帮助', url: 'https://github.com/zhmetosr' }
+    { title: '主站:zhmetosr.cn 子站:yangyuchen.icu', url: 'https://github.com/zhmetosr' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_2: '与思维认知',
   HEO_HERO_TITLE_3: 'zhmetosr.cn',
   HEO_HERO_TITLE_4: 'zhmetosr',
-  HEO_HERO_TITLE_5: '主站:zhmetosr.cn 子站:yangyuchen.icu',
+  HEO_HERO_TITLE_5: '我的github主页',
   HEO_HERO_TITLE_LINK: 'https://github.com/zhmetosr',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
@@ -40,12 +40,12 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🔍 信息收集师',
+    '🤝 交互与设计师',
+    '🏃 说干就干',
+    '🏠 网络安全工程师',
+    '🤖️ 腾讯科技公司src员工一枚',
+    '🧱 团队小组主要动力'
   ],
 
   // 个人资料底部按钮
